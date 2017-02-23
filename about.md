@@ -10,3 +10,4 @@ My name is Ciaran Archer. I work for a lovely company called Zendesk.
 * [https://github.com/ciaranarcher](https://github.com/ciaranarcher)
 * [https://keybase.io/ciaranarcher](https://keybase.io/ciaranarcher)
 
+You can see my older blog entries [here](https://flydillonfly.wordpress.com).
