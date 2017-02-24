@@ -34,8 +34,7 @@ Activated service account credentials for: [travis-ci@<your-project>.iam.gservic
 - echo $GCLOUD_AUTH_JSON_FILE | base64 --decode > gcloud-auth.json
   - gcloud auth activate-service-account $GCLOUD_ACC_ID --key-file gcloud-auth.json
   # Push to GCR
-  - docker tag default/zodiac-ingest "eu.gcr.io/$GCLOUD_PROJECT/zodiac-ingest:latest"
-  - gcloud docker -- push "eu.gcr.io/$GCLOUD_PROJECT/zodiac-ingest:latest"
-
+  - docker tag default/project "eu.gcr.io/$GCLOUD_PROJECT/project:latest"
+  - gcloud docker -- push "eu.gcr.io/$GCLOUD_PROJECT/project:latest"
 {% endhighlight %}
 
