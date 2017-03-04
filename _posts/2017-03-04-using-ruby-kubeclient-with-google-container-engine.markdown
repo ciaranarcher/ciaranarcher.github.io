@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fixing auth errors using the Ruby kubeclient and Google Container Engine."
-date:   2017-02-23 21:17:52 +0000
+date:   2017-03-04 09:00:52 +0000
 categories: gcp ruby gke
 ---
 
